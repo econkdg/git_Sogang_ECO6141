@@ -32,9 +32,3 @@ for m = 1:n;
 end; 
 
 L = diag(L4);
-
-
-
-
-
-
