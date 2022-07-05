@@ -19,6 +19,3 @@ function V = cvar(A,B,V_e);
   l  = length(AA);
   vV = inv(eye(l)-AA)*vQ;
   V  = devec(vV,l1);
-
-
-
