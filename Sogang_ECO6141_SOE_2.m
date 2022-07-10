@@ -1,5 +1,4 @@
 % Problem Set 1: Sample Code
-% Yun Jung Kim
 
 % Parameter values
 beta  = 0.96;   % discount factor
